@@ -2,9 +2,10 @@
 
 Hi. I'm a software engineer-in-training at Sheridan College.
 
-Currently, I spend my free time as an active developer on the LOUD Project - a mod for the RTS game Supreme Commander: Forged Alliance - under the alias of Rat Circus.  
-You can find the account here: https://github.com/TheRatCircus  
-And the project itself is here: https://github.com/LOUD-Project/Git-LOUD
+What am I currently doing?
+- Finishing my studies to graduate at the end of 2021.
+- Active developer on the [LOUD Project](https://github.com/LOUD-Project/Git-LOUD) - a mod for the RTS game Supreme Commander: Forged Alliance - under the alias of [Rat Circus](https://github.com/TheRatCircus).
+- Learning C++, CMake, and graphics programming through OpenGL.
 
 I'm not in the job market right now, and I'm also not looking to take on any other projects.  
 However, if you have any inquiries, email me at jerome.jaa.martina@gmail.com.
